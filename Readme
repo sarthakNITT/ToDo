@@ -1,0 +1,2 @@
+you have mongodb atlas cluster named same as that of project name, get the url from there and put it into the .env file also add port to it.
+run - node index.js to run the backend server
